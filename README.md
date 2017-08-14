@@ -17,6 +17,7 @@ Look it over. It's a list of bikes owned by a few of our favorite people. There 
 Chain through the decoders. Note how arrays are handled.
 
 ## Challenges
+To reinforce your understanding, try the following:
 - Break the JSON and see what happens.
 - Add comfortable/not comfortable to the list of bike attributes in the UI.
 - Display the url of the link for adding a new bike in the UI.
