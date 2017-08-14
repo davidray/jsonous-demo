@@ -4,14 +4,17 @@ This is a sample react app for learning Jsonous. It includes a non-trivial examp
 
 ## Run it
 `yarn
+
 yarn start`
 
 ## The JSON payload
 `/src/things.js`
+
 Look it over. It's a list of bikes owned by a few of our favorite people. There are some nested items for each bike too.
 
 ## The Decoders
 `/src/App.js`
+
 Chain through the decoders. Note how arrays are handled.
 
 ## Challenges
