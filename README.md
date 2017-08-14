@@ -3,9 +3,8 @@
 This is a sample react app for learning Jsonous. It includes a non-trivial example of a JSON source, demonstrates how to get daters from that source, and how to handle errors.
 
 ## Run it
-`yarn
-
-yarn start`
+```yarn
+yarn start```
 
 ## The JSON payload
 `/src/things.js`
